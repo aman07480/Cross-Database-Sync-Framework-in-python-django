@@ -8,3 +8,4 @@ DATABASES = {
         'NAME': BASE_DIR / 'replica_db.sqlite3',
     }
 }
+

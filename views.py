@@ -17,4 +17,5 @@ class CreateProductView(APIView):
         return Response({
             "msg": "Product created & synced",
             "id": product.id
+            "no":product.no
         })
