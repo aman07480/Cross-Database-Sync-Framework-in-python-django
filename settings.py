@@ -9,3 +9,4 @@ DATABASES = {
     }
 }
 
+TEMPLATES='BASE/DIR'
